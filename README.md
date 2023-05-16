@@ -28,7 +28,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -36,6 +35,7 @@
 # 📖 [Redux-Toolkit Tutorial] <a name="about-project"></a>
 
 **[Redux-Toolkit Tutorial ]** This is a redux toolkit tutorial exercise  to understand the concept of state management and use store, actions and reducers in React.
+[live-demo](https://redux-basics.onrender.com/)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -75,9 +75,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://redux-basics.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +136,7 @@ Example command:
 
 ### Deployment
 
-Click here to check the live demo: 
+Click here to check the [live demo](https://redux-basics.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
